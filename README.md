@@ -2,9 +2,8 @@
 Follow my comments
 
 git clone https://github.com/adi1090x/termux-style.git 
-*Change to cloned directory 
-cd termux-style 
-*Make script executable 
+cd termux-style
 chmod +x setup 
-*Run setup to finally install it 
 ./setup
+Tools Is install guys😍
+ANY doubt contant this number 7592988554
