@@ -7,3 +7,4 @@ chmod +x setup
 ./setup
 Tools Is install guys😍
 ANY doubt contant this number 7592988554
+Thanks
