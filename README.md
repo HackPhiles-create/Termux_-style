@@ -1,5 +1,5 @@
 # Termux_-style
-Follow my comments
+😎Follow my comments😎
 
 git clone https://github.com/adi1090x/termux-style.git 
 
