@@ -10,6 +10,6 @@ chmod +x setup
 ./setup
 
 
-
+😍Tools has install😍
 
 
