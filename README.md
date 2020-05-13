@@ -9,7 +9,10 @@ chmod +x setup
 
 ./setup
 
+Just Type: termux-style 
 
-😍Tools has install😍
+😍Tool has install😍
+
+
 
 
